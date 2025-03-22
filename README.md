@@ -1,2 +1,4 @@
 # Delitos-Madrid-ESDA
-ESDA sobre delito en la ciudad de Madrid
+ESDA sobre delitos en la ciudad de Madrid
+
+Este ESDA, realizado por David Cantó y Roberto Rodero para la asignatura de programación avanzada del máster de Tecnologías de la Información Geográfica, es una ampliación del EDA realizado por los mismo autores (Delitos Madrid). En este trabajo se extraen resultados de carácter espacial, al realizarse análisis de autocorrelación espacial (Moran y LISA), regionalización, patrones de puntos y clasificación. Para ejecutarlo sin problemas recomendamos hacerlo en Google Collab, ya que es donde se ha desarrollado la totalidad del código. Al igual que ocurría en el EDA anterior, debe descargar todos los datos presentes en el proyecto y subirlos a una carpeta de Google Drive. Después, cambie la ruta que se indica en la primera línea de código que hay después de importar las librerías. Haciendo esto el notebook debería ejecutarse sin problemas.
